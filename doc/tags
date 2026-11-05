@@ -1,0 +1,5 @@
+colortheme	colortheme.txt	/*colortheme*
+colortheme-contents	colortheme.txt	/*colortheme-contents*
+colortheme-globals	colortheme.txt	/*colortheme-globals*
+colortheme.vim	colortheme.txt	/*colortheme.vim*
+g:enable_colortheme	colortheme.txt	/*g:enable_colortheme*
